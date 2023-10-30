@@ -1,0 +1,64 @@
+/*--INICIO----Red-Celular---------*/
+
+@media only screen and (min-width: 0px) and (max-width: 767px) {
+    .testeGrid {   
+        color: red;
+    }
+    .container{
+        margin: auto;
+        max-width: 540px;
+    }
+}
+/*--FIM-------Red-Celular---------*/
+
+/*--INICIO----Yellow-Celular---------*/
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    .testeGrid {
+        color: yellow;
+    }
+    .container{
+        margin: auto;
+        max-width: 720px;
+    }
+}
+/*--FIM-------Yellow-Celular---------*/
+
+
+/*--INICIO----Brown---------*/
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+    .testeGrid {
+        color: brown;
+    }
+    .container{
+        margin: auto;
+        max-width: 960px;
+    }
+}
+/*--FIM-------Brown---------*/
+
+/*--INICIO----Orange---------*/
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+	.testeGrid {
+        color: orange;
+    }
+    .container{
+        margin: auto;
+        max-width: 960px;
+    }
+}
+/*--FIM-------Orange---------*/
+
+/*--INICIO----Green---------*/
+
+@media only screen and (min-width: 1400px) {
+    .testeGrid {
+        color: green;
+    }
+    .container{
+        margin: auto;
+        max-width: 960px;
+    }
+}
+/*--FIM-------Green---------*/

@@ -1,0 +1,128 @@
+/*--INICIO----Topo-2---------*/
+/*--FIM-------Topo-2---------*/
+* {
+	margin: 0;
+	padding: 0;
+	font-family: arial,helvetica;
+}
+/*--INICIO----COR---------*/
+:root {
+	--color-1: rgba(255,204,1);
+	--color-2: rgba(253,210,45);
+	--color-3: rgba(254,222,101);
+	--color-4: rgba(252,252,252);
+	--color-5: rgba(86,0,153);
+	--color-6: rgba(89,87,92);
+	--color-7: rgba(73,73,73);
+}
+.color-1{background-color: var(--color-1)}
+.color-2{background-color: var(--color-2)}
+.color-3{background-color: var(--color-3)}
+.color-4{background-color: var(--color-4)}
+.color-5{background-color: var(--color-5)}
+.color-6{background-color: var(--color-6)}
+.color-7{background-color: var(--color-7)}
+/*--FIM-------COR---------*/
+
+/*--INICIO----container---------*/
+.max-container{
+    margin: auto;
+    max-width: 100%;
+}
+.grid-container {
+	display: inline-flex;
+	width: 100%;
+}
+.grid-25{width: 25%}
+.grid-33{width: 33%}
+.grid-50{width: 50%}
+.grid-100{width: 100%}
+
+.grid-container > .topo1 {
+	margin: 70px 10px 70px 10px;
+	background-color: rgba(0, 0, 0, 0.4);
+	text-align: center;
+}
+.grid-container > .topo2-1 {
+	background-color: var(--color-2);
+	text-align: center;
+	border-radius: 10px;
+}
+.grid-container > .topo2-2 {
+	text-align: center;
+	border-radius: 10px;
+}
+/*--FIM-------container---------*/
+
+/*--INICIO----HEADER---------*/
+.max-nav{
+	height: 50px;
+	background-color:  var(--color-1);
+}
+/*--FIM-------HEADER---------*/
+
+/*--INICIO----Topo-1---------*/
+.bordTopo-1{
+	padding: 30px 20px 30px 20px;
+}
+.topo1 p{
+	font-size: 12px;
+	padding-top: 30px;
+}
+.colorW{
+	color: white;
+}
+/*--FIM-------Topo-1---------*/
+
+/*--INICIO----Topo-2---------*/
+.topo2-1 h1{
+	font-size: 50px;
+	font-weight: normal;
+}
+.topo2-1 p{
+	text-align: justify;
+	padding-top: 20px;
+}
+/*--FIM-------Topo-2---------*/
+
+/*--INICIO----Topo-3---------*/
+.barra3{
+	border-radius: 10px;
+	background-color:  var(--color-2);
+	margin: 45px 0 45px 0;
+}
+.boxServicos{
+	margin-left: 15px;
+	font-size: 20px;
+	border-radius: 10px;
+	padding: 22px 22px 22px 17px;
+	background-color:  var(--color-1);
+	color: #fff;
+	font-weight: normal;
+}
+.imgS{
+}
+.titulo3{
+	font-size: 50px;
+	font-weight: normal;
+	padding-top: 50px;
+}
+.box3{
+	position: absolute;
+}
+.text3{
+	font-size: 13px;
+}
+/*--FIM-------Topo-3---------*/
+
+/*--INICIO----Topo-4---------*/
+.titulo4{
+	font-size: 50px;
+	font-weight: normal;
+	padding-top: 70px;
+}
+.text4{
+	padding: 30px 0 30px 0;
+	shape-margin: inherit;
+}
+/*--FIM-------Topo-4---------*/

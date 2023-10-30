@@ -1,0 +1,241 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+	<head>
+		<title>Projeto Paralelo</title>
+		<meta charset="utf-8">
+
+		<!--INICIO----STYLE------>
+		<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+		<link rel="stylesheet" type="text/css" href="assets/css/media.css">
+		<!--FIM-------STYLE------>
+
+		<!--meta http-equiv="refresh" content="2"> <Atualização de pagina-->
+
+		<style>
+			.banner-t1{
+				background-image: url('img/bannerPista-1140-600.png');
+				background-size: cover;
+			}
+		</style>
+	</head>
+<body>
+	<!--INICIO----HEADER--------->
+	<header>
+		<div class="container flex-between" style="align-items: start;">
+			<div class="boxLogo">
+				<img class="logo" src="img/pictos_01.png">
+			</div>
+			<nav>
+				<ul>
+					<li><a href="#">INÍCIO</a></li>
+					<li><a href="#">AUTO ESCOLA</a></li>
+					<li><a href="#">SERVIÇOS</a></li>
+					<li><a href="#">ESTRUTURA</a></li>
+					<li><a href="#">VANTAGENS</a></li>
+					<li><a href="#">CONTATO</a></li>
+				</ul>
+			</nav>
+		</div>
+	</header>
+	<!--FIM-------HEADER--------->
+
+	<!--INICIO----MAIN--------->
+	<main>
+		<!--INICIO----Topo-1--------->
+		<section class="banner-t1">
+			<div class="container flex-between" style="align-items: center;">
+				<div class="card-t1">
+					<img src="img/pictos_06.png">
+					<h3>CATEGORIA A</h3>
+					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque similique quam necessitatibus ipsum rerum debitis corporis optio labore eligendi assumenda laborum veritatis, eveniet temporibus. Officiis rem!</p>
+				</div>
+				<div class="card-t1">
+					<img src="img/pictos_08.png">
+					<h3>CATEGORIA B</h3>
+					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque similique quam necessitatibus ipsum rerum debitis corporis optio labore eligendi assumenda laborum veritatis, eveniet temporibus. Officiis rem!</p>
+				</div>
+				<div class="card-t1">
+					<img src="img/pictos_10.png">
+					<h3>CATEGORIA C e D</h3>
+					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque similique quam necessitatibus ipsum rerum debitis corporis optio labore eligendi assumenda laborum veritatis, eveniet temporibus. Officiis rem!</p>
+				</div>
+				<div class="card-t1">
+					<img src="img/pictos_12.png">
+					<h3>CATEGORIA E</h3>
+					<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque similique quam necessitatibus ipsum rerum debitis corporis optio labore eligendi assumenda laborum veritatis, eveniet temporibus. Officiis rem!</p>
+				</div>
+			</div>
+		</section>
+		<!--FIM-------Topo-1--------->
+
+		<!--INICIO----Topo-2--------->
+		<section class="bg-t2">
+			<div class="container" style="padding: 70px 0;">
+				<div class="grid-template-2" style="margin-bottom: 40px;">
+					<div class="card-t2">
+						<div class="text-card-t2">
+							<h1>A AUTO ESCOLA</h1>
+							<p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Sequi cumque, praesentium dolorum voluptate, laboriosam facere dolore eum voluptatibus nesciunt nobis consequatur consectetur eaque molestiae aperiam accusamus odio, tenetur repellendus!ppppppeat fugiat labore nam voluptatum id iusto distinctio corrupti reprehenderit excepturi? Enim nostrum unde obcaecati, ad quod nobis odio?</p>
+						</div>
+					</div>
+					<div class="card-car">
+						<img src="img/carro-autoEscola.png" alt="carro">
+					</div>
+				</div>
+				<div class="grid-template-3" style="column-gap: 20px;">
+					<div class="card-t2">
+						<div class="text-card-t2">
+							<h1 class="color-w">MISSÃO</h1>
+							<p>Laboriosam facere dolore eum voluptatibus nesciunt nobis consequatur consectetur eaque molestiae aperiam accusamus odio. Fugiat labore nam voluptatum id iusto distinctio corrupti reprehenderit excepturi? Enim nostrum unde obcaecati, ad quod nobis odio?</p>
+						</div>
+					</div>
+					<div class="card-t2">
+						<div class="text-card-t2">
+							<h1 class="color-w">VISÃO</h1>
+							<p>Laboriosam facere dolore eum voluptatibus nesciunt nobis consequatur consectetur eaque molestiae aperiam accusamus odio. Fugiat labore nam voluptatum id iusto distinctio corrupti reprehenderit excepturi? Enim nostrum unde obcaecati, ad quod nobis odio?</p>
+						</div>
+					</div>
+					<div class="card-t2">
+						<div class="text-card-t2">
+							<h1 class="color-w">VALORES</h1>
+							<p>Laboriosam facere dolore eum voluptatibus nesciunt nobis consequatur consectetur eaque molestiae aperiam accusamus odio. Fugiat labore nam voluptatum id iusto distinctio corrupti reprehenderit excepturi? Enim nostrum unde obcaecati, ad quod nobis odio?</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--FIM-------Topo-2--------->
+
+		<!--INICIO----Topo-3--------->
+		<section class="bg-t3">
+			<div class="container" style="padding: 70px 0;">
+				<h1 class="titulo">SERVIÇOS</h1>
+
+				<div class="servicos-t3">
+					<div class="vazio-t3" style="width: 195px;">
+						<div class="style-t3">
+							<img src="img/pict.png" alt="@">
+							HABILITAÇÃO
+						</div>
+					</div>
+					<div class="text-t3">
+						O Lorem ipsum tem origem em um trecho de um trabalho filosófico em latim escrito por Cícero, um orador romano, no século I a.C. No entanto, o texto utilizado atualmente como Lorem ipsum não tem um significado ou contexto real. Consiste em palavras e frases latinas incompreensíveis, organizadas em um formato de parágrafo ou em blocos de texto.
+					</div>
+				</div>
+
+				<div class="servicos-t3">
+					<div class="vazio-t3" style="width: 345px;">
+						<div class="style-t3">
+							<img src="img/pict.png" alt="@">
+							RENOVAÇÃO DE ABILITAÇÃO
+						</div>
+					</div>
+					<div class="text-t3">
+						O Lorem ipsum tem origem em um trecho de um trabalho filosófico em latim escrito por Cícero, um orador romano, no século I a.C. No entanto, o texto utilizado atualmente como Lorem ipsum não tem um significado ou contexto real. Consiste em palavras e frases latinas incompreensíveis, organizadas em texto.
+					</div>
+				</div>
+
+				<div class="servicos-t3">
+					<div class="vazio-t3" style="width: 310px;">
+						<div class="style-t3">
+							<img src="img/pict.png" alt="@">
+							RECICLAGEM PRÁTICA
+						</div>
+					</div>
+					<div class="text-t3">
+						O Lorem ipsum tem origem em um trecho de um trabalho filosófico em latim escrito por Cícero, um orador romano, no século I a.C. No entanto, o texto utilizado atualmente como Lorem ipsum não tem um significado ou contexto real. Consiste em palavras e frases latinas incompreensíveis, organizadas em um formato de parágrafo ou em texto.
+					</div>
+				</div>
+
+				<div class="servicos-t3">
+					<div class="vazio-t3" style="width: 310px;">
+						<div class="style-t3">
+							<img src="img/pict.png" alt="@">
+							ADIÇÃO DE CATEGORIA
+						</div>
+					</div>
+					<div class="text-t3">
+						O Lorem ipsum tem origem em um trecho de um trabalho filosófico em latim escrito por Cícero, um orador romano, no século I a.C. No entanto, o texto utilizado atualmente como Lorem ipsum não tem um significado ou contexto real. Consiste em palavras e frases latinas incompreensíveis, organizadas em um formato de parágrafo ou em texto.
+					</div>
+				</div>
+
+				<div class="servicos-t3">
+					<div class="vazio-t3" style="width: 340px;">
+						<div class="style-t3">
+							<img src="img/pict.png" alt="@">
+							CURSOS DE ATUALIZAÇÃO
+						</div>
+					</div>
+					<div class="text-t3">
+						O Lorem ipsum tem origem em um trecho de um trabalho filosófico em latim escrito por Cícero, um orador romano, no século I a.C. No entanto, o texto utilizado atualmente como Lorem ipsum não tem um significado ou contexto real. Consiste em palavras e frases latinas incompreensíveis, organizadas em um formato.
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--FIM-------Topo-3--------->
+
+		<!--INICIO----Topo-4--------->
+		<section>
+			<div class="container" style="padding: 90px 0;">
+				<h1 class="titulo">ESTRUTURA</h1>
+				<p style="margin: 25px 0 40px 0;">Lorem ipsum é um texto fictício amplamente utilizado como espaço reservado na indústria tipográfica e de design. É comumente usado como um texto de preenchimento temporário em designs, maquetes, layouts de página, sites e outros projetos gráficos.	O Lorem ipsum tem origem em um trecho de um trabalho filosófico em latim escrito por Cícero, um orador romano, no século I a.C. No entanto, o texto utilizado atualmente como Lorem ipsum não tem um significado ou contexto real.</p>
+				<div class="grid-template-f4">
+					<img src="img/autoescola-1.jpg" alt="img">
+					<img src="img/autoescola-2.jpg" alt="img">
+					<img src="img/autoescola-3.jpg" alt="img">
+					<img src="img/autoescola-4.jpg" alt="img">
+					<img src="img/autoescola-1.jpg" alt="img">
+					<img src="img/autoescola-2.jpg" alt="img">
+					<img src="img/autoescola-3.jpg" alt="img">
+					<img src="img/autoescola-4.jpg" alt="img">
+				</div>
+			</div>
+		</section>
+		<!--FIM-------Topo-4--------->
+
+		<!--INICIO----Topo-5--------->
+		<section class="bg-t5 color-w">
+			<div class="container" style="padding: 90px 0;">
+				<h1 class="titulo">VANTAGENS</h1>
+
+				<div class="grid-template-f5">
+					<div class="box-f5">
+						<h4>HORARIOS FLEXÍVEIS</h4>
+						<p>Lorem ipsum amet, consectetur adipisicing. Earum consequuntur dolor ullam perspiciatis nulla eveniet nostrum ablu amarg ser favco.</p>
+					</div>
+					<div class="box-f5">
+						<h4>VEÍCULOS NOVOS</h4>
+						<p>Lorem ipsum amet, consectetur adipisicing. Earum consequuntur dolor ullam perspiciatis nulla eveniet nostrum ablu amarg ser favco.</p>
+					</div>
+					<div class="box-f5">
+						<h4>CENTRO DE TREINAMENTO</h4>
+						<p>Lorem ipsum amet, consectetur adipisicing. Earum consequuntur dolor ullam perspiciatis nulla eveniet nostrum ablu amarg ser favco.</p>
+					</div>
+					<div class="box-f5">
+						<h4>PROFICIONAIS EXPERIÊNTES</h4>
+						<p>Lorem ipsum amet, consectetur adipisicing. Earum consequuntur dolor ullam perspiciatis nulla eveniet nostrum ablu amarg ser favco.</p>
+					</div>
+					<div class="box-f5">
+						<h4>ATENDIMENTO PERSONALIZADO</h4>
+						<p>Lorem ipsum amet, consectetur adipisicing. Earum consequuntur dolor ullam perspiciatis nulla eveniet nostrum ablu amarg ser favco.</p>
+					</div>
+					<div class="box-f5">
+						<h4>CERTIFICAÇÃO ISO 9001</h4>
+						<p>Lorem ipsum amet, consectetur adipisicing. Earum consequuntur dolor ullam perspiciatis nulla eveniet nostrum ablu amarg ser favco.</p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<!--FIM-------Topo-5--------->
+	</main>
+	<!--FIM-------MAIN--------->
+
+	<!--INICIO----FOOTER--------->
+	<footer>
+		<!--INICIO----SCRIPT------>
+		<script type="text/javascript" src="assets/js/script.js"></script>
+		<!--FIM-------SCRIPT------>
+	</footer>
+	<!--FIM-------FOOTER--------->
+</body>
+</html>
